@@ -1,10 +1,14 @@
 # Board Puzzles 🧩
 
-> **Ingeniums & ACS CTF - IngeHack 5.0** | Misc
+> **Ingeniums & ACS CTF - IngeHack 5.0** | Misc 
 
-## The Challenge
+## The Challenge Description
+ctfs are too boring for you, and you want to solve some puzzles?        
+we got you, enjoy it !
 
-So basically the game is at https://board-puzzles.ctf.ingeniums.club/ - its a login page where u get into a puzzle game with two levels.
+the game is at https://board-puzzles.ctf.ingeniums.club/ 
+
+after following the given link its a login page where u get into a puzzle game with two levels.
 
 **Level 1:** 5 puzzles made of 16 tiles each, 4 minutes to solve them all - easy to do manually ✅
 
