@@ -8,7 +8,7 @@ Your friend told you they're gonna send you a mail. All you're given is a single
 
 ---
 
-![Pic](mailBox/images/pic.jpg)
+![Pic](images/pic.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ Opening the image, I immediately spotted **two critical details:**
 
 ---
 
-![europeMailBoxesColor](mailBox/images/europeMailBoxesColor.png)
+![europeMailBoxesColor](images/europeMailBoxesColor.png)
 
 ---
 
@@ -53,7 +53,7 @@ I started researching mailbox colors across European countries. Each country has
 
 ---
 
-![1stConfirmation](mailBox/images/1stconfirmation.png)
+![1stConfirmation](images/1stconfirmation.png)
 
 ---
 
@@ -80,7 +80,7 @@ After scrolling through hundreds of results with various mailboxes, I found an *
 
 ---
 
-![match](mailBox/images/match.jpg)
+![match](images/match.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ The mailbox was visible in the Street View imagery at:
 
 ---
 
-![maps](mailBox/images/maps.png)
+![maps](images/maps.png)
 
 ---
 
