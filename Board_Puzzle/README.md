@@ -134,6 +134,21 @@ Just took a close power of 10 number to be the max possible value.
 
 ---
 
+## PoC Video
+
+[📹 Download Video (2.2 MB)](https://github.com/S4l1-on-Git/CTF_writeups/raw/main/Board_Puzzle/Vids/poc_demo.mp4)
+
+The video demonstrates the full exploit:
+1. Starting Level 2 (1 minute timer)
+2. Running `automate.py` to compute tile rotations (~5 seconds)
+3. Intercepting check request in Burp Suite
+4. Replacing rotations array with computed values
+5. First puzzle solved ✅
+6. Running `automate2.py` for 36-tile puzzle
+7. Both puzzles solved in <10 seconds total
+
+---
+
 ## The Problems I Hit
 
 ### 1. Image Rotation Quality Loss
