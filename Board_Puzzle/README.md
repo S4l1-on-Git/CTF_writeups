@@ -136,7 +136,7 @@ Just took a close power of 10 number to be the max possible value.
 
 ## PoC Video
 
-[📹 Download Video (2.2 MB)](https://github.com/S4l1-on-Git/CTF_writeups/raw/main/Board_Puzzle/Vids/poc_demo.mp4)
+[📹 Download Video (12.1 MB)](https://github.com/S4l1-on-Git/CTF_writeups/raw/main/Board_Puzzle/Vids/poc_demo.mp4)
 
 The video demonstrates the full exploit:
 1. Starting Level 2 (1 minute timer)
